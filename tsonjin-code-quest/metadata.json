@@ -1,0 +1,8 @@
+{
+  "name": "Tsonjin Code Quest",
+  "description": "Interactive Python & Modern C++ educational platform and coding quest for Tsonjin Cyber Boarding School.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
